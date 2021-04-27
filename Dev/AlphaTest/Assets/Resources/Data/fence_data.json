@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Fence_00",
+    "maxHp": 50,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_00"
+  },
+  {
+    "id": 2,
+    "name": "Fence_01",
+    "maxHp": 55,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_01"
+  },
+  {
+    "id": 3,
+    "name": "Fence_02",
+    "maxHp": 60,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_02"
+  },
+  {
+    "id": 4,
+    "name": "Fence_03",
+    "maxHp": 65,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_03"
+  },
+  {
+    "id": 5,
+    "name": "Fence_04",
+    "maxHp": 70,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_04"
+  },
+  {
+    "id": 6,
+    "name": "Fence_05",
+    "maxHp": 75,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_05"
+  },
+  {
+    "id": 7,
+    "name": "Fence_06",
+    "maxHp": 80,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_06"
+  },
+  {
+    "id": 8,
+    "name": "Fence_07",
+    "maxHp": 85,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_07"
+  },
+  {
+    "id": 9,
+    "name": "Fence_08",
+    "maxHp": 90,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_08"
+  },
+  {
+    "id": 10,
+    "name": "Fence_09",
+    "maxHp": 95,
+    "reinforceMaxLv": 10,
+    "prefab_name": "Fence_09"
+  }
+]

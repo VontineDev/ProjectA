@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "name": "스테이지 클리어1",
+    "description": "스테이지 1라운드 돌파",
+    "amount": 1000,
+    "goal": 1
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "name": "스테이지 클리어2",
+    "description": "스테이지 2라운드 돌파",
+    "amount": 2000,
+    "goal": 1
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "name": "스테이지 클리어3",
+    "description": "스테이지 3라운드 돌파",
+    "amount": 3000,
+    "goal": 1
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "name": "스테이지 클리어4",
+    "description": "스테이지 4라운드 돌파",
+    "amount": 4000,
+    "goal": 1
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "name": "스테이지 클리어5",
+    "description": "스테이지 5라운드 돌파",
+    "amount": 5000,
+    "goal": 1
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "name": "스테이지 클리어6",
+    "description": "스테이지 6라운드 돌파",
+    "amount": 6000,
+    "goal": 1
+  },
+  {
+    "id": 7,
+    "type": 1,
+    "name": "스테이지 클리어7",
+    "description": "스테이지 7라운드 돌파",
+    "amount": 7000,
+    "goal": 1
+  },
+  {
+    "id": 8,
+    "type": 1,
+    "name": "스테이지 클리어8",
+    "description": "스테이지 8라운드 돌파",
+    "amount": 8000,
+    "goal": 1
+  },
+  {
+    "id": 9,
+    "type": 1,
+    "name": "스테이지 클리어9",
+    "description": "스테이지 9라운드 돌파",
+    "amount": 9000,
+    "goal": 1
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "name": "스테이지 클리어10",
+    "description": "스테이지 10라운드 돌파",
+    "amount": 10000,
+    "goal": 1
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "name": "스테이지 클리어11",
+    "description": "스테이지 11라운드 돌파",
+    "amount": 11000,
+    "goal": 1
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "name": "스테이지 클리어12",
+    "description": "스테이지 12라운드 돌파",
+    "amount": 12000,
+    "goal": 1
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "name": "스테이지 클리어13",
+    "description": "스테이지 13라운드 돌파",
+    "amount": 13000,
+    "goal": 1
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "name": "스테이지 클리어14",
+    "description": "스테이지 14라운드 돌파",
+    "amount": 14000,
+    "goal": 1
+  },
+  {
+    "id": 15,
+    "type": 1,
+    "name": "스테이지 클리어15",
+    "description": "스테이지 15라운드 돌파",
+    "amount": 15000,
+    "goal": 1
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "name": "스테이지 클리어16",
+    "description": "스테이지 16라운드 돌파",
+    "amount": 16000,
+    "goal": 1
+  },
+  {
+    "id": 17,
+    "type": 2,
+    "name": "좀비 처치1",
+    "description": "좀비 100마리 처치",
+    "amount": 10000,
+    "goal": 100
+  },
+  {
+    "id": 18,
+    "type": 2,
+    "name": "좀비 처치2",
+    "description": "좀비 500마리 처치",
+    "amount": 20000,
+    "goal": 500
+  },
+  {
+    "id": 19,
+    "type": 2,
+    "name": "좀비 처치3",
+    "description": "좀비 1000마리 처치",
+    "amount": 30000,
+    "goal": 1000
+  },
+  {
+    "id": 20,
+    "type": 2,
+    "name": "좀비 처치4",
+    "description": "좀비 2000마리 처치",
+    "amount": 50000,
+    "goal": 2000
+  },
+  {
+    "id": 21,
+    "type": 2,
+    "name": "좀비 처치5",
+    "description": "좀비 4000마리 처치",
+    "amount": 100000,
+    "goal": 4000
+  },
+  {
+    "id": 22,
+    "type": 2,
+    "name": "좀비 처치6",
+    "description": "좀비 10000마리 처치",
+    "amount": 500000,
+    "goal": 10000
+  }
+]

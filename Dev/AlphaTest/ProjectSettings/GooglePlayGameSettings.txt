@@ -1,0 +1,9 @@
+lastUpgrade=01006
+proj.pluginVersion=0.10.06
+proj.AppId=675824058305
+and.BundleId=com.Team108.ZombieDefenseGame
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e675824058305%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Team108.ZombieDefenseGame%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+KillCount+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_killcount%22+translatable%3d%22false%22%3eCgkIwf-C0tUTEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+event+KillCount+--%3e%0d%0a++%3cstring+name%3d%22event_killcount%22+translatable%3d%22false%22%3eCgkIwf-C0tUTEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+event+RoundClear+--%3e%0d%0a++%3cstring+name%3d%22event_roundclear%22+translatable%3d%22false%22%3eCgkIwf-C0tUTEAIQAw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=675824058305-hprh2letn5iksidk3i2lolot5cg5tmnt.apps.googleusercontent.com
+android.SetupDone=true

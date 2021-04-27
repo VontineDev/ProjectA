@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "stage1",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 1,
+    "rewardCash": 1000,
+    "comfortCash": 300
+  },
+  {
+    "id": 2,
+    "name": "stage2",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 2,
+    "rewardCash": 2000,
+    "comfortCash": 700
+  },
+  {
+    "id": 3,
+    "name": "stage3",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 3,
+    "rewardCash": 3000,
+    "comfortCash": 1000
+  },
+  {
+    "id": 4,
+    "name": "stage4",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 4,
+    "rewardCash": 4000,
+    "comfortCash": 1300
+  },
+  {
+    "id": 5,
+    "name": "stage5",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 5,
+    "rewardCash": 5000,
+    "comfortCash": 1600
+  },
+  {
+    "id": 6,
+    "name": "stage6",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 6,
+    "rewardCash": 6000,
+    "comfortCash": 2000
+  },
+  {
+    "id": 7,
+    "name": "stage7",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 7,
+    "rewardCash": 7000,
+    "comfortCash": 2300
+  },
+  {
+    "id": 8,
+    "name": "stage8",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 8,
+    "rewardCash": 8000,
+    "comfortCash": 2600
+  },
+  {
+    "id": 9,
+    "name": "stage9",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 9,
+    "rewardCash": 9000,
+    "comfortCash": 3000
+  },
+  {
+    "id": 10,
+    "name": "stage10",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 10,
+    "rewardCash": 10000,
+    "comfortCash": 3300
+  },
+  {
+    "id": 11,
+    "name": "stage11",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 11,
+    "rewardCash": 11000,
+    "comfortCash": 3600
+  },
+  {
+    "id": 12,
+    "name": "stage12",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 12,
+    "rewardCash": 12000,
+    "comfortCash": 4000
+  },
+  {
+    "id": 13,
+    "name": "stage13",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 13,
+    "rewardCash": 13000,
+    "comfortCash": 4300
+  },
+  {
+    "id": 14,
+    "name": "stage14",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 14,
+    "rewardCash": 14000,
+    "comfortCash": 4600
+  },
+  {
+    "id": 15,
+    "name": "stage15",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 15,
+    "rewardCash": 15000,
+    "comfortCash": 5000
+  },
+  {
+    "id": 16,
+    "name": "stage16",
+    "prefab_name": "Defence_Map_00",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "wave_group_id": 16,
+    "rewardCash": 16000,
+    "comfortCash": 5300
+  }
+]

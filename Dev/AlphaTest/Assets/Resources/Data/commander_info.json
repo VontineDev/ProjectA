@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "uId": 0,
+    "commander_id": 1,
+    "isSelected": "TRUE",
+    "isLocked": "FALSE",
+    "damageTotal": 0,
+    "damageLv": 0,
+    "atkSpeedTotal": 0,
+    "atkSpeedLV": 0
+  },
+  {
+    "id": 2,
+    "uId": 0,
+    "commander_id": 2,
+    "isSelected": "FALSE",
+    "isLocked": "FALSE",
+    "damageTotal": 0,
+    "damageLv": 0,
+    "atkSpeedTotal": 0,
+    "atkSpeedLV": 0
+  },
+  {
+    "id": 3,
+    "uId": 0,
+    "commander_id": 3,
+    "isSelected": "FALSE",
+    "isLocked": "FALSE",
+    "damageTotal": 0,
+    "damageLv": 0,
+    "atkSpeedTotal": 0,
+    "atkSpeedLV": 0
+  },
+  {
+    "id": 4,
+    "uId": 0,
+    "commander_id": 4,
+    "isSelected": "FALSE",
+    "isLocked": "FALSE",
+    "damageTotal": 0,
+    "damageLv": 0,
+    "atkSpeedTotal": 0,
+    "atkSpeedLV": 0
+  },
+  {
+    "id": 5,
+    "uId": 0,
+    "commander_id": 5,
+    "isSelected": "FALSE",
+    "isLocked": "FALSE",
+    "damageTotal": 0,
+    "damageLv": 0,
+    "atkSpeedTotal": 0,
+    "atkSpeedLV": 0
+  }
+]

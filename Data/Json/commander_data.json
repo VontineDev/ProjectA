@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Comm01",
+    "damage": 4,
+    "damageMaxLv": 30,
+    "atkSpeed": 1.6,
+    "atkSpeedMaxLV": 30,
+    "atkRange": 15,
+    "maxHpDungeon": 3,
+    "moveSpeed": 5,
+    "prefab_name": "Comm01"
+  },
+  {
+    "id": 2,
+    "name": "Comm02",
+    "damage": 20,
+    "damageMaxLv": 30,
+    "atkSpeed": 1.5,
+    "atkSpeedMaxLV": 30,
+    "atkRange": 16,
+    "maxHpDungeon": 3,
+    "moveSpeed": 5,
+    "prefab_name": "Comm02"
+  },
+  {
+    "id": 3,
+    "name": "Comm03",
+    "damage": 15,
+    "damageMaxLv": 30,
+    "atkSpeed": 1.2,
+    "atkSpeedMaxLV": 30,
+    "atkRange": 18,
+    "maxHpDungeon": 3,
+    "moveSpeed": 5,
+    "prefab_name": "Comm03"
+  },
+  {
+    "id": 4,
+    "name": "Comm04",
+    "damage": 3,
+    "damageMaxLv": 30,
+    "atkSpeed": 0.5,
+    "atkSpeedMaxLV": 30,
+    "atkRange": 21,
+    "maxHpDungeon": 3,
+    "moveSpeed": 5,
+    "prefab_name": "Comm04"
+  },
+  {
+    "id": 5,
+    "name": "Comm05",
+    "damage": 8,
+    "damageMaxLv": 30,
+    "atkSpeed": 1.1,
+    "atkSpeedMaxLV": 30,
+    "atkRange": 19,
+    "maxHpDungeon": 3,
+    "moveSpeed": 5,
+    "prefab_name": "Comm05"
+  }
+]

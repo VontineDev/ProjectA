@@ -1,0 +1,142 @@
+﻿[
+  {
+    "id": 1,
+    "name": "링1",
+    "type": 1,
+    "isPossessed": "TRUE",
+    "isEquipped": "TRUE"
+  },
+  {
+    "id": 2,
+    "name": "링2",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 3,
+    "name": "링3",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 4,
+    "name": "링4",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 5,
+    "name": "링5",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 6,
+    "name": "링6",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 7,
+    "name": "링7",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 8,
+    "name": "링8",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 9,
+    "name": "링9",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 10,
+    "name": "링10",
+    "type": 1,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 11,
+    "name": "이어링1",
+    "type": 2,
+    "isPossessed": "TRUE",
+    "isEquipped": "TRUE"
+  },
+  {
+    "id": 12,
+    "name": "이어링2",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 13,
+    "name": "이어링3",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 14,
+    "name": "이어링4",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 15,
+    "name": "이어링5",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 16,
+    "name": "이어링6",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 17,
+    "name": "이어링7",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 18,
+    "name": "이어링8",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 19,
+    "name": "이어링9",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  },
+  {
+    "id": 20,
+    "name": "이어링10",
+    "type": 2,
+    "isPossessed": "FALSE",
+    "isEquipped": "FALSE"
+  }
+]

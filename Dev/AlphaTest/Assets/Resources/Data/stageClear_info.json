@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "stage_id": 1,
+    "isLocked": "FALSE",
+    "isCleared": "TRUE"
+  },
+  {
+    "id": 2,
+    "stage_id": 2,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 3,
+    "stage_id": 3,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 4,
+    "stage_id": 4,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 5,
+    "stage_id": 5,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 6,
+    "stage_id": 6,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 7,
+    "stage_id": 7,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 8,
+    "stage_id": 8,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 9,
+    "stage_id": 9,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 10,
+    "stage_id": 10,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 11,
+    "stage_id": 11,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 12,
+    "stage_id": 12,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 13,
+    "stage_id": 13,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 14,
+    "stage_id": 14,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 15,
+    "stage_id": 15,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  },
+  {
+    "id": 16,
+    "stage_id": 16,
+    "isLocked": "TRUE",
+    "isCleared": "FALSE"
+  }
+]

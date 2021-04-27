@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "uId": "null",
+    "userName": "default_user",
+    "heroDamageLv": 0,
+    "heroAtkSpeedLv": 0,
+    "monsterKillCount": 0,
+    "cash": 1500,
+    "isBgmOn": "TRUE",
+    "isFXsoundOn": "TRUE"
+  }
+]

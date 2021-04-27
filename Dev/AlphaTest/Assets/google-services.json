@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675824058305",
+    "firebase_url": "https://api-project-63028745.firebaseio.com",
+    "project_id": "api-project-63028745",
+    "storage_bucket": "api-project-63028745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675824058305:android:26298892b7bd7992ea7940",
+        "android_client_info": {
+          "package_name": "com.Team108.ZombieDefenseGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675824058305-hprh2letn5iksidk3i2lolot5cg5tmnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsm3g3Jpnt7a2MNYKndJGK3Xqg9YEATyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675824058305-hprh2letn5iksidk3i2lolot5cg5tmnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
